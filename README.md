@@ -1,10 +1,12 @@
 # HR_Analytics_Dashboard
 
 **Objective**
+
 The Objective was to Perform analysis on an HR dataset and find out different KPIs such as Total Employee, Active Employee, Active Remote Employee, Average Stay Duration, Average Employee Age, etc.
 To Analyze the data and KPIs from different aspects like Departments, Job Titles, etc. 
 
 **Dataset Description**
+
 Dataset Attached above.
 
 Within this file you will find the following fields:
@@ -33,7 +35,12 @@ Within this file you will find the following fields:
 
 **Analysis Tasks**
 
-To learn the following insights as shown above corresponding to the Department selected by the user:
+1. KPI's - Total employees, Active employees, Average stay duration, Active Remotes,and average employee age.
+2. Yearly data of Total vs Active Employee.
+3. Yearly data of Employees that work remotely vs those working at HQ.
+4. Average tenure of different Job Titles.
+5. Average Age of employees working in different Job Titles.
+6. Creating a filter to filter all the analysis according to the Department.
        
 
 **Dashboard Preview**

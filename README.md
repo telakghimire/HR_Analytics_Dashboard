@@ -13,24 +13,19 @@ Within this file you will find the following fields:
 
 | Field         | Description |
 | ------------- | ------------- |
-| Order ID      | Product Order ID |
-| Product ID    | Unique Product ID |
-| Location ID   | Unique ID Of Location|
-| Sales Person ID | Seller Unique ID|
-| Customer ID   | Unique Customer ID |
-| Purchase Date | Product Booking Date  |
-| Quantity      | Count Of Product Booked|
-| Price         | Price To Be Paid By Customer |
-| Cost          | Product Manufacturing Cost |
-| Revenue       | Total Revenue Generated |
-| Profit        | Profit Generated From Product Sale |
-| City          | Unique City Name  |
-| Sales Rep | Seller Name |
-| Customer Name | Name of the Customer |
-| Weekday       | Product Purchase Day |
-| Month         | Product Purchase Month |
-| Year          | Product Purchase Year |
-| Day           | Product Purchase Day In Numeric |
+| id      | Employee Id |
+| first_name    | First Name of Employee |
+| last_name   | Last Name of Employee |
+| birthdate | Employee Birth Date |
+| gender   | Gender |
+| race | Race of Employee  |
+| department      | Employee Department |
+| jobtitle         | Job Profile of Employee |
+| location          | From Where Employee is Working |
+| hire_date       | Hiring Date of Employee |
+| termdate        | Termination Date of Employee |
+| location_city   | Employee City  |
+| location_state | Employee State |
 
 
 **Analysis Tasks**

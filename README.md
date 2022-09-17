@@ -5,6 +5,9 @@
 The Objective was to Perform analysis on an HR dataset and find out different KPIs such as Total Employee, Active Employee, Active Remote Employee, Average Stay Duration, Average Employee Age, etc.
 To Analyze the data and KPIs from different aspects like Departments, Job Titles, etc. 
 
+**Click on the Link**
+(https://public.tableau.com/app/profile/telak.ghimire/viz/HRAnalyticsTableauProject_16609108777820/Dashboard1)
+
 **Dataset Description**
 
 Dataset Attached above.
